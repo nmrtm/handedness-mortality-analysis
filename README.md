@@ -4,8 +4,6 @@ Exploring how changes in reported left-handedness across birth cohorts can produ
 
 This Python project applies Bayes' theorem to historical handedness rates and US mortality data. It examines whether an apparent age-at-death gap can emerge from changing patterns of reported handedness, using the same underlying death distribution for both groups.
 
-Completed by **Namrata Muralidharan** during a **MedTourEasy data analytics traineeship in March 2024**.
-
 [View the notebook](handedness_mortallity_analysis.ipynb) · [Read the project report](Namrata_Muralidharan_Traineeship_Report_March24.pdf)
 
 ## Background
