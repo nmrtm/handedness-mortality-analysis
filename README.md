@@ -94,4 +94,4 @@ Restart the kernel and run all cells in order from the repository directory. The
 
 ## Acknowledgements
 
-The notebook follows the structure and analysis of Madeleine Bonsma-Fisher's DataCamp tutorial, *Do Left-handed People Really Die Young?* ([author's publication list](https://madeleinebonsma.com/wp-content/uploads/2025/06/CV_Madeleine.pdf)). The prepared input datasets are hosted by `mbonsma` on GitHub Gist. This repository contains the traineeship implementation and accompanying report.
+The notebook follows the structure and analysis of Madeleine Bonsma-Fisher's DataCamp tutorial, *Do Left-handed People Really Die Young?*. The prepared input datasets are hosted by `mbonsma` on GitHub Gist. This repository contains the traineeship implementation and accompanying report.
